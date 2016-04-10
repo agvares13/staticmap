@@ -1,0 +1,26 @@
+{
+  "name": "staticmap",
+  "version": "0.0.1",
+  "description": "Allows to get static map images from Node.js",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "email": "agvares13@gmail.com",
+    "name": "Pavel Grabarenko"
+  },
+  "homepage": "https://github.com/agvares13/staticmap",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/agvares13/staticmap.git"
+  },
+  "bugs": {
+    "url": "https://github.com/agvares13/staticmap/issues"
+  },
+  "dependencies": {
+    "axios": "^0.9.1",
+    "node-png": "^0.4.3"
+  },
+  "license": "MIT"
+}
