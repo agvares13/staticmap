@@ -93,6 +93,14 @@ Default class representing resulting images. `Image` is wrapper for `require('no
 Starts converting data to PNG file Stream.
 
 
+### Method: lonToX(lon)
+Function is being added to object automatically. Allows to translate a `longitude` to `x` coordinate of this image.
+
+
+### Method: latToY(lat)
+Function is being added to object automatically. Allows to translate a `latitude` to `x` coordinate of this image.
+
+
 ### Property: width
 
 
