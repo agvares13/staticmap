@@ -20,6 +20,7 @@
   },
   "dependencies": {
     "axios": "^0.9.1",
+    "debug": "^2.2.0",
     "node-png": "^0.4.3"
   },
   "license": "MIT"
