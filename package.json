@@ -3,6 +3,9 @@
   "version": "0.0.2",
   "description": "Allows to get static map images from Node.js",
   "main": "./lib/index.js",
+  "engines": {
+    "node": ">=5.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
