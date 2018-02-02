@@ -88,7 +88,7 @@ Default class representing resulting images. `Image` is wrapper for `require('no
 
 ### Method: drawImage(data, x, y, callback)
 
-### Method: drawLine(x1, y1, x2, y2, callback)
+### Method: drawLine(x1, y1, x2, y2, color)
 
 ### Method: pack()
 Starts converting data to PNG file Stream.
