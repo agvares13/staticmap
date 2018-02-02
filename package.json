@@ -22,7 +22,7 @@
     "url": "https://github.com/agvares13/staticmap/issues"
   },
   "dependencies": {
-    "axios": "^0.9.1",
+    "axios": "^0.17.1",
     "debug": "^2.2.0",
     "node-png": "^0.4.3"
   },
