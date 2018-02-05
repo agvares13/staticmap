@@ -45,7 +45,7 @@ Object containing default values of `tileUrl` and `tileSize`.
 
 
 ### staticmap.create(opts)
-Creates new instance of Map class using `opts` that is an object containing `tileUrl` and `tileSize` properties.
+Creates new instance of Map class using `opts` that is an object containing `tileUrl` and `tileSize` and `proxy` properties.
 
 
 ### staticmap.png(opts)
@@ -88,6 +88,7 @@ Default class representing resulting images. `Image` is wrapper for `require('no
 
 ### Method: drawImage(data, x, y, callback)
 
+### Method: drawLine(x1, y1, x2, y2, color)
 
 ### Method: pack()
 Starts converting data to PNG file Stream.
