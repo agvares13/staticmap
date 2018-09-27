@@ -1,6 +1,6 @@
 {
   "name": "staticmap",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Allows to get static map images from Node.js",
   "main": "./lib/index.js",
   "engines": {
